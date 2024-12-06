@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Alger-blog/Alger_blog_my.github.io
+  repo: https://github.com/Alger-blog/Alger_blog_my.github.io.git
   branch: main
