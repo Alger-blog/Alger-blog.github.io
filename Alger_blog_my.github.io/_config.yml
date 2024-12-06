@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Alger-blog/Alger_blog_my.github.io
-  branch: master
+  branch: main
